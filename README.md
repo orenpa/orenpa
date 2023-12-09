@@ -12,7 +12,7 @@
 
 **Demo:** Here's a glimpse of the WeatherApp in action. 
 
-<img src="https://github.com/orenpa/weather-app/blob/main/client/src/Components/Assets/featuress.gif" width="400" height="300" alt="features weatherapp">
+<img src="https://github.com/orenpa/weather-app/blob/main/client/src/Components/Assets/featuress.gif" width="550" height="300" alt="features weatherapp">
 
 ---
 
